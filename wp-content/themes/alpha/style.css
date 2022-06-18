@@ -1,0 +1,286 @@
+/*
+Theme Name:Alpha
+Text Domain: alpha
+Version: 1.0
+Tested up to: 6.0
+Requires at least: 4.7
+Requires PHP: 5.2.4
+Description: Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors.
+Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-patterns, block-styles, wide-blocks, accessibility-ready
+Author: the WordPress team
+Author URI: final.test
+Theme URI: http://final.test/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+All files, unless otherwise stated, are released under the GNU General Public
+License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned
+with others.
+*/
+
+h1.heading {
+  font-family: "Arial Black";
+  width: 700px;
+  margin: auto;
+  margin-bottom: 70px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #ccc;
+}
+
+h3.tagline {
+  font-family: Arial;
+  margin: auto;
+  font-size: 18px;
+  margin-top: 50px;
+  margin-bottom: 15px;
+  width: 700px;
+  text-align: center;
+}
+p {
+  font-size: 10px;
+}
+h2.post-title {
+  margin-bottom: 30px;
+}
+
+.post {
+  margin-bottom: 50px;
+}
+
+.post p {
+  font-family: "Helvetica Neue";
+  line-height: 1.7em;
+  font-size: 18px;
+}
+
+.post .row:nth-child(2) {
+  padding-bottom: 50px;
+  border-bottom: 1px solid #ccc;
+}
+
+.post:last-child .row:nth-child(2) {
+  border-bottom: none;
+}
+
+.footer {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  background-color: #222;
+  color: #ccc;
+}
+
+.tags li {
+  color: #3d9970;
+}
+.tagline {
+  border: 2px solid goldenrod;
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+}
+
+.imagsize img {
+  /* max-width: 800px; */
+  width: 100%;
+  /* max-height: 500px; */
+  height: auto;
+}
+.paginnation {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+ul.list-unstyled li {
+  border: 2px solid #000;
+  margin: 3px;
+  padding: 0 5px;
+  background: red; /* color: yellow; */
+}
+
+ul.list-unstyled {
+  display: inline-block;
+}
+
+ul.list-unstyled li a {
+  color: white;
+  list-style: none;
+  text-decoration: none;
+}
+
+ul.list-unstyled li:hover {
+  background: yellow; /* color: black; */
+}
+
+ul.list-unstyled li a:hover {
+  color: black;
+}
+h2.post-title a {
+  text-decoration: none;
+}
+
+h2.post-title a:hover {
+  background: yellow;
+}
+
+.themeLogo {
+  margin-top: 20px;
+}
+.themeLogo img {
+  border-radius: 50px;
+}
+.sone {
+  padding: 300px;
+}
+
+.dashicons {
+  font-size: 100px;
+  display: inherit;
+  margin-top: 40px;
+  color: #2222;
+}
+
+.authorimage img {
+  border-radius: 50%;
+}
+
+h1.text-center.taghead {
+  font-size: 42px;
+  padding: 20px;
+  /* border: 2px solid black; */
+  /* display: inline-block; */
+  text-align: center;
+  background-color: greenyellow;
+}
+
+.slider img {
+  height: 500px;
+  width: 100%;
+}
+
+.heading a {
+  text-decoration: none;
+}
+
+.testimonial img {
+  width: 200px;
+  height: auto;
+  border-radius: 100px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+.testimonial p {
+  font-size: 20px;
+}
+
+.teamProfile {
+  display: flex;
+  text-align: center;
+}
+
+.teamProfile h4,
+h6,
+p,
+h3 {
+  text-align: left;
+  padding: 5px;
+}
+
+/* menu style */
+.menu-topmenu-container ul {
+  padding: 0;
+  margin: 0;
+}
+
+.menu-topmenu-container ul li {
+  padding: 1px 15px;
+  border: 1px solid red;
+  background: red;
+  cursor: pointer;
+}
+
+.menu-topmenu-container ul li a {
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+}
+
+.menu-topmenu-container ul li:hover {
+  background: white;
+  color: red;
+  border-color: white;
+}
+
+.menu-topmenu-container ul li a:hover {
+  color: red;
+}
+
+.menu-topmenu-container {
+  padding: 10px 0px;
+}
+.search-highlight {
+  background: yellow;
+  font-weight: 600;
+  
+}
+.nav-links a {
+  background-color: red;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  text-decoration: none;
+}
+
+.nav-links {
+  margin-bottom: 10px;
+}
+
+.info-design h3 {
+  font-size: 22px;
+  padding-top: 0;
+}
+
+.info-design p {
+  padding: 0;
+}
+
+.info-design h4 {
+  background-color: red;
+  color: white;
+  padding-top: 2px;
+  margin-top: 4px;
+}
+
+.info-design {
+  margin: 3px;
+}
+
+.info-design h3:hover {
+  background-color: red;
+  color: white;
+}
+
+h6.needmargin strong {
+  color: red;
+}
+
+.pagination a {
+  padding: 10px;
+  background: red;
+  color: white;
+  text-decoration: none;
+}
+
+.pagination a:hover {
+  background: black;
+  color: white;
+}
+
+span.page-numbers.current {
+  background: green;
+  padding: 10px;
+}

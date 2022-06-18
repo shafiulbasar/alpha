@@ -1,0 +1,628 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Empathy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-18 17:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:10
+msgid "you are lost!"
+msgstr ""
+
+#: 404.php:19
+msgid "The page you are looking for was not found!"
+msgstr ""
+
+#: comments.php:27
+#, php-format
+msgid "1 Comment %2$s"
+msgid_plural "%1$s Comments %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:81
+msgid "Leave a comment"
+msgstr ""
+
+#: footer.php:34
+msgid "This field is required."
+msgstr ""
+
+#: footer.php:35
+msgid "Please fix this field."
+msgstr ""
+
+#: footer.php:36
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: footer.php:37
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: footer.php:38
+msgid "Please enter a valid date."
+msgstr ""
+
+#: footer.php:39
+msgid "Please enter a valid date ( ISO )."
+msgstr ""
+
+#: footer.php:40
+msgid "Please enter a valid number."
+msgstr ""
+
+#: footer.php:41
+msgid "Please enter only digits."
+msgstr ""
+
+#: footer.php:42
+msgid "Please enter the same value again."
+msgstr ""
+
+#: footer.php:43
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: footer.php:44
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: footer.php:45
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: footer.php:46
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: footer.php:47
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: footer.php:48
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: footer.php:49
+msgid "Please enter a multiple of {0}."
+msgstr ""
+
+#: functions.php:104
+msgid "Classic Navigation Menu"
+msgstr ""
+
+#: functions.php:138 functions.php:3607 functions.php:3627 functions.php:3632
+msgid "Read More"
+msgstr ""
+
+#: functions.php:149
+msgid "Featured Image"
+msgstr ""
+
+#: functions.php:192 header.php:156 header.php:190 header.php:212
+#: header.php:229 header.php:281
+msgid "Home"
+msgstr ""
+
+#: functions.php:278
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:278
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:305
+msgid "at"
+msgstr ""
+
+#: functions.php:314
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:324 index.php:64 single.php:50
+msgid "Edit"
+msgstr ""
+
+#: functions.php:331
+msgid "Reply"
+msgstr ""
+
+#: functions.php:381
+msgid "Title Visibility"
+msgstr ""
+
+#: functions.php:436
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:444
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:452
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:460
+msgid "Footer Social Icons"
+msgstr ""
+
+#: functions.php:469
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: functions.php:471
+msgid "Use Text widget in here."
+msgstr ""
+
+#: functions.php:478
+msgid "Empathy Template Pages"
+msgstr ""
+
+#: functions.php:480
+msgid "Add only Empathy [PAGE] widgets."
+msgstr ""
+
+#: functions.php:496
+msgid "(Empathy) [PAGE] Custom"
+msgstr ""
+
+#: functions.php:497
+msgid "About, resume, contact etc."
+msgstr ""
+
+#: functions.php:510 functions.php:688 functions.php:937 functions.php:1298
+#: functions.php:1726 functions.php:1821
+msgid "Title"
+msgstr ""
+
+#: functions.php:521 functions.php:699 functions.php:948 functions.php:1309
+msgid "For menu item."
+msgstr ""
+
+#: functions.php:526 functions.php:704 functions.php:953 functions.php:1314
+msgid "Icon"
+msgstr ""
+
+#: functions.php:537 functions.php:715 functions.php:964 functions.php:1325
+msgid "For page icon and menu icon."
+msgstr ""
+
+#: functions.php:537 functions.php:715 functions.php:964 functions.php:1325
+msgid "Use icon name."
+msgstr ""
+
+#: functions.php:537 functions.php:715 functions.php:964 functions.php:1325
+msgid "Available"
+msgstr ""
+
+#: functions.php:537 functions.php:715 functions.php:964 functions.php:1325
+msgid "icons"
+msgstr ""
+
+#: functions.php:542 functions.php:720 functions.php:969 functions.php:1330
+msgid "Page"
+msgstr ""
+
+#: functions.php:546 functions.php:724 functions.php:973 functions.php:1334
+msgid "Select"
+msgstr ""
+
+#: functions.php:572 functions.php:1001 functions.php:1360
+msgid "Select a page for this widget."
+msgstr ""
+
+#: functions.php:673
+msgid "(Empathy) [PAGE] Home"
+msgstr ""
+
+#: functions.php:674
+msgid "Intro page."
+msgstr ""
+
+#: functions.php:750
+msgid ""
+"Select a page for this widget. Set featured image to selected page for "
+"background image."
+msgstr ""
+
+#: functions.php:757
+msgid "Background Video"
+msgstr ""
+
+#: functions.php:763
+msgid "Use browser address url of a video from YouTube or Vimeo."
+msgstr ""
+
+#: functions.php:918
+msgid "(Empathy) [PAGE] Blog"
+msgstr ""
+
+#: functions.php:919
+msgid "Latest blog posts."
+msgstr ""
+
+#: functions.php:1006 functions.php:1365
+msgid "Layout"
+msgstr ""
+
+#: functions.php:1019 functions.php:1378
+msgid "Item Width"
+msgstr ""
+
+#: functions.php:1030 functions.php:1389
+msgid "Default: 340 (px)"
+msgstr ""
+
+#: functions.php:1035
+msgid "Show Items"
+msgstr ""
+
+#: functions.php:1282
+msgid "(Empathy) [PAGE] Portfolio"
+msgstr ""
+
+#: functions.php:1283
+msgid "Portfolio items."
+msgstr ""
+
+#: functions.php:1549
+msgid "All"
+msgstr ""
+
+#: functions.php:1709
+msgid "(Empathy) Flickr"
+msgstr ""
+
+#: functions.php:1710
+msgid "Flickr widget."
+msgstr ""
+
+#: functions.php:1733 functions.php:1835
+msgid "User"
+msgstr ""
+
+#: functions.php:1740
+msgid "Number of items to show:"
+msgstr ""
+
+#: functions.php:1808
+msgid "(Empathy) Social Feed"
+msgstr ""
+
+#: functions.php:1809
+msgid "Social feed widget."
+msgstr ""
+
+#: functions.php:1826
+msgid "Network"
+msgstr ""
+
+#: functions.php:1840
+msgid "Number of items to show"
+msgstr ""
+
+#: functions.php:2089
+#, php-format
+msgid ""
+"You shall not place the %1$s template tag inside the loop on "
+"list/archives/search/etc templates."
+msgstr ""
+
+#: functions.php:2358
+msgid "First"
+msgstr ""
+
+#: functions.php:2570
+msgid "Last"
+msgstr ""
+
+#: functions.php:3278
+msgid "NAME"
+msgstr ""
+
+#: functions.php:3279
+msgid "EMAIL"
+msgstr ""
+
+#: functions.php:3280
+msgid "Leave this empty"
+msgstr ""
+
+#: functions.php:3281
+msgid "MESSAGE"
+msgstr ""
+
+#: functions.php:3284
+msgid "SEND"
+msgstr ""
+
+#: functions.php:3484
+msgid "Category"
+msgstr ""
+
+#: functions.php:3496
+msgid "Posts Tagged"
+msgstr ""
+
+#: functions.php:3508
+msgid "Posts By"
+msgstr ""
+
+#: functions.php:3520
+msgid "Searched For"
+msgstr ""
+
+#: functions.php:3532
+msgid "Date Archives"
+msgstr ""
+
+#: functions.php:3543
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: functions.php:3547
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions.php:3551 functions.php:3563 functions.php:3575
+msgid "Archives"
+msgstr ""
+
+#: functions.php:3642
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:3686
+msgid "You May Also Like"
+msgstr ""
+
+#: functions.php:3758
+msgid "<span class=\"meta-nav\">&#8592;</span> Older Posts"
+msgstr ""
+
+#: functions.php:3764
+msgid "Newer Posts <span class=\"meta-nav\">&#8594;</span>"
+msgstr ""
+
+#: functions.php:3785
+msgid "PREVIOUS IMAGE"
+msgstr ""
+
+#: functions.php:3793
+msgid "NEXT IMAGE"
+msgstr ""
+
+#: functions.php:3833
+msgid "PREVIOUS POST"
+msgstr ""
+
+#: functions.php:3839
+msgid "NEXT POST"
+msgstr ""
+
+#: functions.php:4335
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:4343
+msgid "Pixelwars Portfolio"
+msgstr ""
+
+#: functions.php:4354
+msgid "One Click Demo Import"
+msgstr ""
+
+#: functions.php:4359
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: functions.php:4364
+msgid "Loco Translate"
+msgstr ""
+
+#: functions.php:4369
+msgid "Instagram Feed Gallery"
+msgstr ""
+
+#: header.php:142 header.php:159 header.php:174 header.php:196 header.php:215
+#: header.php:266 header.php:284 header.php:296
+msgid "Search"
+msgstr ""
+
+#: header.php:193
+msgid "Back To Portfolio"
+msgstr ""
+
+#: header.php:244 header.php:259
+msgid "Back To Blog"
+msgstr ""
+
+#: header.php:295
+msgid "enter word"
+msgstr ""
+
+#: index.php:46 single.php:39
+msgid "0 Comment"
+msgstr ""
+
+#: index.php:46 single.php:39
+msgid "1 Comment"
+msgstr ""
+
+#: index.php:46 single.php:39
+msgid "% Comments"
+msgstr ""
+
+#: index.php:100 index.php:122
+msgid "Nothing Found"
+msgstr ""
+
+#: index.php:106
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: index.php:128
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: single-portfolio.php:56
+msgid "Launch Project"
+msgstr ""
+
+#: single.php:39
+msgid "Comments Off"
+msgstr ""
+
+#. Name of the template
+msgid "Full width"
+msgstr ""
+
+#. Name of the template
+msgid "Empathy Homepage"
+msgstr ""
+
+#. Name of the template
+msgid "Medium width"
+msgstr ""
+
+#: admin/blog-page-link.php:9
+msgid "SEE ALL POSTS"
+msgstr ""
+
+#: admin/customizer.php:8
+msgid "Fonts"
+msgstr ""
+
+#: admin/customizer.php:17
+msgid "Colors"
+msgstr ""
+
+#: admin/customizer.php:26
+msgid "Empathy Page Colors"
+msgstr ""
+
+#: admin/customizer.php:27
+msgid "Select background color for pages in the Empathy page template."
+msgstr ""
+
+#: admin/customizer.php:36
+msgid "Empathy Page Animations"
+msgstr ""
+
+#: admin/customizer.php:37
+msgid "Select page transition effects for pages in the Empathy page template."
+msgstr ""
+
+#: admin/customizer.php:46 admin/customizer.php:400
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/customizer.php:47
+msgid "Quickly add custom css."
+msgstr ""
+
+#: admin/customizer.php:110
+msgid "Text Logo Color"
+msgstr ""
+
+#: admin/customizer.php:119
+msgid "Text Logo Background Color"
+msgstr ""
+
+#: admin/customizer.php:128
+msgid "Menu Background Color"
+msgstr ""
+
+#: admin/customizer.php:137
+msgid "Link Color"
+msgstr ""
+
+#: admin/customizer.php:146
+msgid "Link Hover Color"
+msgstr ""
+
+#: admin/customizer.php:155
+msgid "Primary Color"
+msgstr ""
+
+#: admin/customizer.php:167
+msgid "Loading Bar Color"
+msgstr ""
+
+#: admin/customizer.php:179
+msgid "1. Page Background Color"
+msgstr ""
+
+#: admin/customizer.php:198
+msgid "2. Page Background Color"
+msgstr ""
+
+#: admin/customizer.php:217
+msgid "3. Page Background Color"
+msgstr ""
+
+#: admin/customizer.php:236
+msgid "4. Page Background Color"
+msgstr ""
+
+#: admin/customizer.php:255
+msgid "5. Page Background Color"
+msgstr ""
+
+#: admin/customizer.php:274
+msgid "6. Page Background Color"
+msgstr ""
+
+#. Name of the theme
+msgid "Empathy"
+msgstr ""
+
+#. Description of the theme
+msgid "Responsive WordPress theme."
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/pixelwars/portfolio"
+msgstr ""
+
+#. Author of the theme
+msgid "Pixelwars"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/pixelwars"
+msgstr ""

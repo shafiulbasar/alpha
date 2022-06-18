@@ -1,0 +1,77 @@
+
+---Downloaded files---
+The import files for: Demo Content were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://final.test
+Data file = D:\sites\final/wp-content/themes/empathy/admin/demo-data/content.xml
+Widget file = D:\sites\final/wp-content/themes/empathy/admin/demo-data/widgets.wie
+Customizer file = D:\sites\final/wp-content/themes/empathy/admin/demo-data/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Footer 1 : 
+
+Recent Posts - No Title - Imported
+
+Footer 2 : 
+
+Social Feed Gallery - Instagram - Imported
+
+Footer 3 : 
+
+Categories - No Title - Imported
+
+Footer Social Icons : 
+
+Custom HTML - No Title - Imported
+
+Footer Copyright Text : 
+
+Text - No Title - Imported
+
+Empathy Template Pages : 
+
+(Empathy) [PAGE] Home - home - Imported
+(Empathy) [PAGE] Custom - about me - Imported
+(Empathy) [PAGE] Custom - resume - Imported
+(Empathy) [PAGE] Portfolio - portfolio - Imported
+(Empathy) [PAGE] Blog - blog - Imported
+(Empathy) [PAGE] Custom - contact - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
